@@ -18,4 +18,6 @@
 <h1> 💎 My achievements </h1>
 <img src="https://github-profile-trophy.vercel.app/?username=waleezwashere&theme=onedark" />
   
+  
+  
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31rp2mvsp5xdklgamjek2nlfzpfu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=894eb1)](https://github.com/kittinan/spotify-github-profile)
